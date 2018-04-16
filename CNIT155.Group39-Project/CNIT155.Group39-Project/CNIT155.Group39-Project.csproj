@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Interop.WMPLib">
-      <HintPath>..\..\Interop.WMPLib.dll</HintPath>
+      <HintPath>..\..\..\..\Users\ben00\OneDrive\Documents\Purdue\CNIT 155\Team Project\Interop.WMPLib.dll</HintPath>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
