@@ -1,0 +1,13 @@
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39_Project.Form1.resources
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39_Project.Properties.Resources.resources
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.GenerateResource.Cache
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.CoreCompileInputs.cache
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\bin\Debug\CNIT155.Group39-Project.exe.config
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\bin\Debug\CNIT155.Group39-Project.exe
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\bin\Debug\CNIT155.Group39-Project.pdb
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.ResolveComReference.cache
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.exe
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.pdb
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csprojResolveAssemblyReference.cache
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\Interop.WMPLib.dll
+Z:\Active\Desktop\Spootifai-WhatAmIDoing\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39_Project.plSort.resources
