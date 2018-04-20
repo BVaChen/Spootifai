@@ -8,3 +8,5 @@ C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.CoreCompileInputs.cache
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.exe
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.pdb
+C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\Interop.WMPLib.dll
+C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.ResolveComReference.cache
