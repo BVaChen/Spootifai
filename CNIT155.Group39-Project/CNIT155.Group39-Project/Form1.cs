@@ -14,6 +14,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WMPLib;
+using System.IO;
 
 namespace CNIT155.Group39_Project
 {
@@ -80,6 +81,40 @@ namespace CNIT155.Group39_Project
                 }
             }
         }
+
+        private void radShuffle_CheckedChanged(object sender, EventArgs e)
+        {
+            ListBox.ObjectCollection list = lstOutput.Items;
+            Random random = new Random();
+            int w;
+            w = list.Count;
+            lstOutput.BeginUpdate();
+            while (w>1)
+            {
+                w--;
+                int next;
+                next = random.Next(w + 1);
+                object value = list[next];
+                list[next] = list[w];
+                list[w] = value;
+            }
+            lstOutput.EndUpdate();
+            lstOutput.Invalidate();
+
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            StreamWriter SW = null;
+            int ctr;
+            SW = new StreamWriter("filename.txt");
+            for (ctr = 0; ctr < mIndex; ctr++)
+            {
+                SW.WriteLine(mSongs[ctr]);
+            }
+            SW.Close();
+        }
+    }
     }
     
 }
