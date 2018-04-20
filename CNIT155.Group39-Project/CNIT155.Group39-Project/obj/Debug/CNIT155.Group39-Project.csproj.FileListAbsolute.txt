@@ -10,3 +10,12 @@ C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.pdb
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\Interop.WMPLib.dll
 C:\GitHubby\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.ResolveComReference.cache
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csprojResolveAssemblyReference.cache
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\Interop.WMPLib.dll
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.ResolveComReference.cache
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39_Project.Form1.resources
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39_Project.Properties.Resources.resources
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.GenerateResource.Cache
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.csproj.CoreCompileInputs.cache
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.exe
+U:\Personal\GitHub\Spootifai\CNIT155.Group39-Project\CNIT155.Group39-Project\obj\Debug\CNIT155.Group39-Project.pdb

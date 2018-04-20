@@ -20,9 +20,9 @@ namespace CNIT155.Group39_Project
     public partial class Form1 : Form
     {
         WindowsMediaPlayer Music = new WindowsMediaPlayer();
-        private const int mSize = 30;
-        private string[] mSongs = new string[mSize];
-        private int mIndex = 0;
+        private const int mSize = 30; //only 30 songs per playlist
+        private string[] mSongs = new string[mSize]; //array of 30 songs
+        private int mIndex = 0;//starts at 0
 
         public Form1()
         {
@@ -38,7 +38,7 @@ namespace CNIT155.Group39_Project
             {
                 string fileName = Open.FileName;
                 Music.URL = fileName;
-                txtStuff.Text = Music.currentMedia.getItemInfo("Name").Trim();
+                txtStuff.Text = Music.currentMedia.getItemInfo("Name").Trim();//put name of opened file into textbox
                 mSongs[mIndex] = txtStuff.Text;
                 mIndex++;
 
@@ -115,15 +115,15 @@ namespace CNIT155.Group39_Project
         private void btnSort_Click(object sender, EventArgs e)
         {
             /*string swap;
-            for (int pass = 1; pass < mIndex; pass++)
+            for (int pass = 1; pass < mIndex-2; pass++)
             {
-                for (int ctr = 0; ctr < mIndex; ctr++)
+                for (int ctr = 0; ctr < mIndex-1; ctr++)
                 {
                     if (string.Compare(mSongs[ctr], mSongs[ctr + 1]) > 0)
                     {
                         swap = mSongs[ctr];
                         mSongs[ctr] = mSongs[ctr + 1];
-                        mSongs[ctr + 1] = swap;
+                        mSongs[ctr + 1] = swap; //what if we just make a Swap() helper method. I'll figure this out later when I have a computer that I can actually run code on
                     }
                 }
             }
@@ -134,6 +134,26 @@ namespace CNIT155.Group39_Project
                 lstOutput.Items.Add(mSongs[ctr]);
             }
             */
+        }
+
+        private void radShuffle_CheckedChanged(object sender, EventArgs e)
+        {
+            int n = mIndex; //number of songs
+            while (n > 1) //while there are still songs in it's original spot
+            {
+                n--;//reduce the number of songs in it's original spot
+                int k = rng.Next(n + 1);//rng an integer between 0 and n
+                string temp = mSongs[k]; //hold on to this string
+                mSongs[k] = mSongs[n]; //replace the string with the song in index n
+                mSongs[n] = temp; //put the former index k where index n was
+
+                lstOutput.Items.Clear();
+
+                for (int ctr = 0; ctr < mIndex; ctr++)
+                {
+                    lstOutput.Items.Add(mSongs[ctr]);
+                }
+            }
         }
     }
 }
